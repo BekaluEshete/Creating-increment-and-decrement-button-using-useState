@@ -1,0 +1,22 @@
+.container {
+  text-align: center;
+  margin-top: 0px;
+}
+.counterText {
+  font-size: 6rem;
+  font-weight: bold;
+}
+.Counter-btn {
+  margin: 0 5px;
+  border: none;
+  background-color: hsla(132, 95%, 49%, 0.947);
+  color: white;
+  font-weight: bold;
+  width: 7rem;
+  height: 3rem;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.Counter-btn:hover {
+  background-color: green;
+}
